@@ -8,7 +8,7 @@ requests = "*"
 refextract = {git = "https://github.com/MITLibraries/refextract.git"}
 
 [packages]
-django = {version = "~=2.2.0"}
+django = {version = "~=2.2.20"}
 gunicorn = "*"
 gevent = "*"
 coverage = "*"
